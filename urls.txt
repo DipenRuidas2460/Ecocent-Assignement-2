@@ -1,0 +1,3 @@
+http://www.example.com/page1
+http://www.example.com/page2
+http://www.example.com/page3

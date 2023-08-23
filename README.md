@@ -1,4 +1,7 @@
 # Ecocent-Assignement-2
+
+To Start the Application:-  Add some http url then run script:--  node fileUpload.js ,  to particular directories.
+
 This code segment imports the required Node.js modules: fs for file system operations, http for making HTTP requests, and promisify from the util module to convert callback-based functions into promise-based functions.
 
 fetchAndWrite Function:
